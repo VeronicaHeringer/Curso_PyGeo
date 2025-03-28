@@ -1,4 +1,11 @@
 # Curso_PyGeo
-Repositório das atividades realizadas durante o Curso de Python da ClickGeo (PyGEO). 
-Curso de introdução ao geoprocessamento no Python. 
-Mostra do zero como criar as geometrias básicas, importar vetores, rasters, álgebra de mapas, baixar imagens pelo google earth engine, aritmética de bandas, estatísticas zonais e muito mais.
+Repositório das atividades realizadas durante o Curso Linguagem de Programação Python para Geoprocessamento (ClickGeo - PyGeo). 
+Ementa
+Módulo 01 - Geometrias: modelo vetorial de dados espaciais;
+Módulo 02 - Dados espaciais e projeções com a Geopandas;
+Módulo 03 - Geocodificação, consultas espaciais e junção de tabelas;
+Módulo 04 - Trabalhando com dados OSM, análise de vizinhança e reclassificação de dados;
+Módulo 05 - Criando mapas no Python (estáticos e interativos);
+Módulo 06 - Manipulação de dados matriciais (raster).
+
+
